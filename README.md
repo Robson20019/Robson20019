@@ -13,7 +13,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 :round_pushpin: Atualmente em Santana de Parnaíba - SP 🇧🇷 <br>
 :book: No momento focando os estudos na Linguagem Java (lógica e orientação a objetos). <br>
 :cloud: Estudando em paralelo JavaScript, HTML e CSS. <br>
-:information_desk_person: Participando das comunidades referente à área.<br>
+:bowtie: Participando das comunidades referente à área.<br>
 :warning: Atenção este espaço (Github) está passando por constante reforma.<br>
 
 </p>
