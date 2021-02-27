@@ -1,6 +1,6 @@
 # Olá meu nome é Robson, seja bem vindo(a) ao meu Github
 
-<img align="right" width="300" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-bpdvg&psig=AOvVaw0D0GZ3z2y3Fikx6E40uVgp&ust=1614469842548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjSxYPfiO8CFQAAAAAdAAAAABAE">
+<img align="right" width="300" height="350" src="https://w7.pngwing.com/pngs/150/266/png-transparent-brown-dragon-dragon-green-dragon-s-drago-legendary-creature-image-file-formats-dragon.png">
  
 Sou formado em Análise e Desenvolvimento de Sistemas.
 
